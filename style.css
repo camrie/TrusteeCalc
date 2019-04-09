@@ -1,0 +1,45 @@
+/* body {
+    background-color: linear-gradient(to bottom, #15B288, #FFFFFF); 
+} */
+.black-background {
+    background-color: white;
+}
+
+.background {
+    background-color: teal;
+}
+.white {
+    color:#15B288;
+}
+
+.center {
+    display: block;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.inputs {
+    padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    margin:10px;
+    width: 90px;
+    height: 40px;
+}
+
+.button {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    display: block;
+}
+
+#gradient {
+    height: 100%;
+    background: #15B288; 
+    background: linear-gradient(to bottom, #15B288, #FFFFFF); 
+
+}
